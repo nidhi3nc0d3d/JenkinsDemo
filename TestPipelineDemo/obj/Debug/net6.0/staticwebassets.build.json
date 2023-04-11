@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bHJPDoSuyd8sKcVxxJqbXNmRJwd9JQTr1p0mcsG+5II=",
+  "Source": "TestPipelineDemo",
+  "BasePath": "_content/TestPipelineDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
