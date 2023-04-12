@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.33214.273
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPipelineDemo", "TestPipelineDemo\TestPipelineDemo.csproj", "{41597291-CA90-4452-A98E-940E31602B33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPipelineDemo", "TestPipelineDemo\TestPipelineDemo.csproj", "{41597291-CA90-4452-A98E-940E31602B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPipeline", "DemoPipeline\DemoPipeline.csproj", "{ECBE7789-BAB2-4B0F-8BD0-C7F203581708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{41597291-CA90-4452-A98E-940E31602B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41597291-CA90-4452-A98E-940E31602B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41597291-CA90-4452-A98E-940E31602B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBE7789-BAB2-4B0F-8BD0-C7F203581708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBE7789-BAB2-4B0F-8BD0-C7F203581708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBE7789-BAB2-4B0F-8BD0-C7F203581708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBE7789-BAB2-4B0F-8BD0-C7F203581708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
