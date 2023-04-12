@@ -34,7 +34,7 @@ namespace DemoPipeline.Controllers
 
         public string GetMsg()
         {
-            return "Hello from GetMsg Action method";
+            return "Hello from GetMsg Action ";
         }
     }
 }

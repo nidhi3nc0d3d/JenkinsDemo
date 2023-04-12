@@ -18,3 +18,4 @@ C:\Users\jmahton\source\repos\TestPipelineDemo\DemoPipeline\obj\Debug\net6.0\Dem
 C:\Users\jmahton\source\repos\TestPipelineDemo\DemoPipeline\obj\Debug\net6.0\ref\DemoPipeline.dll
 C:\Users\jmahton\source\repos\TestPipelineDemo\DemoPipeline\obj\Debug\net6.0\DemoPipeline.pdb
 C:\Users\jmahton\source\repos\TestPipelineDemo\DemoPipeline\obj\Debug\net6.0\DemoPipeline.genruntimeconfig.cache
+C:\Users\jmahton\source\repos\TestPipelineDemo\DemoPipeline\obj\Debug\net6.0\DemoPipeline.csproj.AssemblyReference.cache
