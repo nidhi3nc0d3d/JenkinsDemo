@@ -10,7 +10,6 @@ C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\bin\Debug\net6.0
 C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\obj\Debug\net6.0\TestPipelineDemo.csproj.AssemblyReference.cache
 C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\obj\Debug\net6.0\TestPipelineDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\obj\Debug\net6.0\TestPipelineDemo.AssemblyInfoInputs.cache
 C:\Users\jmahton\source\repos\TestPipelineDemo\TestPipelineDemo\obj\Debug\net6.0\TestPipelineDemo.AssemblyInfo.cs
